@@ -1,0 +1,8 @@
+public class Ola 
+{ 
+    public static void main(String[] args) 
+    { 
+        Out.println("Hello,"+username); 
+    } 
+  
+} 
