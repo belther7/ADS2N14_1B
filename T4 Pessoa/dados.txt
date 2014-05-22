@@ -1,0 +1,126 @@
+161
+100
+Gabriela Santos
+14299095
+Residencial
+AV. Protasio Alves 548 - Gravatai
+254
+100
+Priscila Santos
+83229993
+Pessoal
+AV. Assis Brasil 922 - Porto Alegre
+630
+100
+Aline Santos
+69842950
+Residencial
+AV. Manoel Elias 615 - Novo Hamburgo
+569
+100
+Diego Moura
+36988646
+Comercial
+AV. Assis Brasil 661 - Porto Alegre
+641
+100
+Débora Martins
+83955876
+Comercial
+AV. Assis Brasil 734 - Novo Hamburgo
+214
+100
+Maria Martins
+95139922
+Comercial
+AV. Protasio Alves 320 - Porto Alegre
+221
+100
+Gabriela Santos
+43656950
+Pessoal
+AV. Sertorio 232 - Novo Hamburgo
+56
+100
+Maria Duarte
+16721430
+Pessoal
+AV. Assis Brasil 154 - Novo Hamburgo
+915
+100
+Guilherme Moura
+59491695
+Comercial
+R. General Lima e Silva 528 - Novo Hamburgo
+660
+100
+Jéssica Moura
+86694911
+Residencial
+AV. Manoel Elias 642 - Novo Hamburgo
+174
+100
+Guilherme Moura
+50525996
+Comercial
+AV. Assis Brasil 305 - Gravatai
+915
+100
+Thiago Duarte
+40145858
+Comercial
+R. General Lima e Silva 290 - Porto Alegre
+323
+100
+Gabriela Santos
+41322268
+Pessoal
+R. General Lima e Silva 442 - Porto Alegre
+798
+100
+Priscila Lima
+73207435
+Residencial
+R. General Lima e Silva 68 - Novo Hamburgo
+3
+100
+Thiago Duarte
+82484020
+Comercial
+R. General Lima e Silva 988 - Porto Alegre
+817
+100
+João Santos
+18392576
+Residencial
+AV. Protasio Alves 772 - Gravatai
+662
+100
+Thiago Moura
+26933004
+Residencial
+AV. Assis Brasil 532 - Gravatai
+175
+100
+Débora Lima
+66308136
+Comercial
+R. General Lima e Silva 659 - Gravatai
+939
+100
+Débora Lima
+46117720
+Comercial
+AV. Assis Brasil 462 - Novo Hamburgo
+54
+100
+Nicole Lima
+76462801
+Comercial
+AV. Sertorio 503 - Gravatai
+648
+100
+Jéssica Duarte
+30104200
+Comercial
+AV. Sertorio 964 - Porto Alegre
